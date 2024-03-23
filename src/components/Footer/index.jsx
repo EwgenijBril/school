@@ -1,7 +1,7 @@
 export default function Footer() {
 	return (
 		<footer className="bg-[#333333] text-white">
-			<div className="max-container flex items-start justify-around py-10 font-light">
+			<div className="max_container flex items-start justify-around py-10 font-normal">
 				<div>
 					<h1 className="py-2 text-4xl">KreaTec GmbH</h1>
 					<p>Rudolf-Diesel-Straße 7</p>
